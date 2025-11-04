@@ -1,57 +1,74 @@
-# EZSTAY - Hotel Reservation Management System
+# 🏨 EZSTAY - Hotel Reservation Management System
 
-**EZSTAY** adalah aplikasi sistem manajemen reservasi hotel modern yang dirancang untuk memudahkan admin hotel dalam mengelola operasional secara efisien.  
-Melalui satu dashboard terintegrasi, admin dapat mengatur data hotel, reservasi, pembayaran, laporan, serta manajemen pengguna.
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/)
+
+**EZSTAY** adalah aplikasi modern untuk manajemen reservasi hotel yang memudahkan admin mengelola operasional secara efisien melalui dashboard terintegrasi.
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Fitur Unggulan
 
 ### 🔑 Autentikasi
-- **Login**: Admin dapat login ke sistem dengan validasi form.
+
+* **Login Aman**: Admin dapat login dengan validasi form yang kuat.
 
 ### 📊 Dashboard & Analytics
-- **Dashboard**: Menyediakan ringkasan informasi penting terkait reservasi, user, dan laporan.  
-- **Analytics**: Grafik/statistik performa hotel dan data reservasi.
+
+* **Dashboard Intuitif**: Ringkasan data reservasi, user, dan laporan.
+* **Grafik & Statistik**: Visualisasi performa hotel dan tren reservasi.
 
 ### 💳 Payment Management
-- Manajemen pembayaran reservasi.  
-- Admin dapat mengelola metode pembayaran dan status pembayaran tamu.
+
+* Kelola pembayaran reservasi dan statusnya.
+* Admin dapat mengatur metode pembayaran yang tersedia.
 
 ### 👥 User Management
-- **List User**: Menampilkan daftar admin/user.  
-- **CRUD User**: Tambah, edit, hapus data user.  
-- **Search & Filter**: Cari user berdasarkan nama/email.
+
+* **List User**: Lihat semua admin/user.
+* **CRUD User**: Tambah, edit, hapus data user.
+* **Search & Filter**: Temukan user berdasarkan nama atau email.
 
 ### ⚙️ Settings
-- Pengaturan sistem untuk menyesuaikan preferensi admin.
+
+* Sesuaikan preferensi sistem agar sesuai kebutuhan operasional.
 
 ### 🏨 Hotel Management
-- Menampilkan data hotel (nama, lokasi, harga, rating, gambar).  
-- **CRUD Hotel**: Tambah, edit, hapus hotel.  
-- **Pencarian & Filter**:
-  - Search berdasarkan nama atau lokasi.  
-  - Filter berdasarkan lokasi atau rating minimum.  
-- **Sorting**: Mendukung ascending (ASC) & descending (DESC).  
-- **Pagination**: Navigasi data hotel lebih efisien.
+
+* **Data Hotel Lengkap**: Nama, lokasi, harga, rating, gambar.
+* **CRUD Hotel**: Tambah, edit, hapus hotel.
+* **Pencarian & Filter**: Berdasarkan nama, lokasi, rating minimum.
+* **Sorting & Pagination**: Navigasi data hotel lebih efisien.
 
 ### ℹ️ About Page
-- Halaman informasi tentang aplikasi **EZSTAY** dan kegunaannya.
+
+* Informasi lengkap mengenai aplikasi **EZSTAY** dan manfaatnya.
 
 ### 🎨 Tema
-- **Dark Mode**: Mendukung tampilan light & dark mode secara otomatis.
+
+* **Dark & Light Mode**: Tampilan otomatis menyesuaikan preferensi pengguna.
 
 ### 🚪 Logout
-- Admin dapat keluar dari sistem setelah selesai menggunakan dashboard.
+
+* Admin dapat keluar dari sistem setelah selesai menggunakan dashboard.
 
 ---
 
 ## 🛠 Teknologi yang Digunakan
-- **Frontend**: React (Vite), Tailwind CSS  
+
+* **Frontend**: React (Vite)
+* **Styling**: Tailwind CSS
 
 ---
 
-## 📌 Tujuan
-Proyek ini dibuat untuk membantu pengelolaan reservasi hotel secara efisien, terpusat, dan modern, serta dapat dikembangkan lebih lanjut sesuai kebutuhan organisasi.
+## 📌 Tujuan Proyek
+
+Menciptakan sistem manajemen reservasi hotel yang:
+
+* Efisien dan terpusat.
+* Modern dan mudah digunakan.
+* Dapat dikembangkan lebih lanjut sesuai kebutuhan organisasi.
 
 ---
+
